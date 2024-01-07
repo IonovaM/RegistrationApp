@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339468122035",
+    "project_id": "my-application-480bb",
+    "storage_bucket": "my-application-480bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339468122035:android:59ded00ac9fde75b39bdc6",
+        "android_client_info": {
+          "package_name": "cf.vandit.registration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzplPRbHs0FfJMR227nTBnr2C0jKflxJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
